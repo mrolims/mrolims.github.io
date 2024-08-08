@@ -21,9 +21,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_picture.png"
+  avatar           : "profile_picture2.png"
   name             : "Matheus Rolim Sales"
-  pronouns         : "he/his"  
+  pronouns         : "rolim.sales[at]unesp.br"
   bio              : "Postdoctoral researcher at the Department of Physics of the São Paulo State University (UNESP)"
   location         : "Rio Claro, SP, Brazil"
   #employer         : "Red Brick University"
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-1121-6371"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Matheus-Rolim-Sales"
 
   # Repositories and software development
