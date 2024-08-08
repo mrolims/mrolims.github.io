@@ -11,8 +11,9 @@ redirect_from:
 
 ## Education
 
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
+  * **Ph.D. in Science** <span style="float:right;">**October 2023**</span>\
+  State University of Ponta Grossa\
+  *Thesis title*: [Dynamical aspects of Hamiltonian Systems: Chaos, stickiness, and recurrence plots](http://mrolims.github.io/files/thesis.pdf)
 * B.S. in GitHub, GitHub University, 2012
 
 Work experience
