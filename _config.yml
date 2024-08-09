@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Matheus' Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Matheus Rolim Sales"
 description              : &description "personal description"
 url                      : https://mrolims.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile_picture2.png"
   name             : "Matheus Rolim Sales"
-  pronouns         : "rolim.sales[at]unesp.br"
+  pronouns         : "he/his"
   bio              : "Postdoctoral researcher at the Department of Physics of the São Paulo State University (UNESP)"
   location         : "Rio Claro, SP, Brazil"
   #employer         : "Red Brick University"
