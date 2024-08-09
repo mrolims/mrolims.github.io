@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-
-
 ![Illustration of combining vision and language modalities](/images/lorenz.gif){: .align-right width="375px"}
 
 Department of Physics\
@@ -25,7 +23,7 @@ rolim.sales[at]unesp.br
 * Classical and quantum billiards
 * Synchronization and chimera states in complex networks
 * Adaptive dynamical networks
-* Neuronal models and network
+* Neuronal models
 
 ## News
 
