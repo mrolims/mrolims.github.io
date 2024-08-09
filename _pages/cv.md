@@ -34,7 +34,7 @@ Federal University of Paraná
   * **Visiting Academic** <span style="float:right;">**From Oct 2022 to Mar 2023**</span>\
   Potsdam Institute for Climate Impact Research
     * Visiting academic at Potsdam Institute for Climate Impact Research at Potsdam, Germany
-    * Clustering formation and chimera states in complexn networks
+    * Clustering formation and chimera states in complex networks
     * Supervisors: Dr. Serhiy Yanchuk and Prof. Dr. Jürgen Kurths
   * **Doctoral researcher** <span style="float:right;">**From Mar 2020 to Oct 2023**</span>\
   State University of Ponta Grossa
@@ -42,7 +42,7 @@ Federal University of Paraná
     * Dynamical aspects of Hamiltonian systems
     * Recurrence plots
     * Dynamical measures as quantifiers of chaotic motion
-    * Synchronization and chimera state in complex networs
+    * Synchronization and chimera state in complex networks
     * Advisor: Prof. Dr. José Danilo Szezech Jr.
 
 ## Publications
@@ -53,10 +53,24 @@ Federal University of Paraná
 9. E. C. Gabrick, **M. R. Sales**, E. Sayari, J. Trobia, E. K. Lenzi, F. S. Borges, J. D. Szezech Jr., K. C. Iarosz, R. L. Viana, I. L. Caldas, and A. M. Batista, Fractional dynamics and recurrence analysis in cancer model, [Brazilian Journal of Physics 53, 145 (2023)](http://mrolims.github.io/files/mrs9.pdf).
 8. V. dos Santos, **M. R. Sales**, S. S. Muni, J. D. Szezech, A. M. Batista, S. Yanchuk, and J. Kurths, Identification of single- and double-well coherenceincoherence patterns by the binary distance matrix, [Communications in Nonlinear Science and Numerical Simulation 125, 107390 (2023)](http://mrolims.github.io/files/mrs8.pdf)
 7. **M. R. Sales**, M. Mugnaine, J. Szezech, José D., R. L. Viana, I. L. Caldas, N. Marwan, and J. Kurths, Stickiness and recurrence plots: An entropy-based approach, [Chaos: An Interdisciplinary Journal of Nonlinear Science 33, 033140 (2023)](http://mrolims.github.io/files/mrs7.pdf)
-6. M. Mugnaine, **M. R. Sales**, J. D. Szezech, and R. L. Viana, Dynamics, multistability, and crisis analysis of a sine- circle nontwist map, [Phys. Rev. E 106, 034203 (2022)](http://mrolims.github.io/files/mrs6.pdf)
+6. M. Mugnaine, **M. R. Sales**, J. D. Szezech, and R. L. Viana, Dynamics, multistability, and crisis analysis of a sine-circle nontwist map, [Phys. Rev. E 106, 034203 (2022)](http://mrolims.github.io/files/mrs6.pdf)
 5. D. R. da Costa, A. Fujita, **M. R. Sales**, J. D. Szezech, and A. M. Batista, Dynamical properties for a tunable circular to polygonal billiard, [Brazilian Journal of Physics 52, 75 (2022)](http://mrolims.github.io/files/mrs5.pdf)
-4. F. Teston, A. L. Azevedo, **M. R. Sales**, F. M. Zanetti, and M. G. E. da Luz, The flexibility in choosing distinct greens functions for the boundary wall method: waveguides and billiards, [Journal of Physics A: Mathematical and Theoretical 55, 175201 (2022)](http://mrolims.github.io/files/mrs4.pdf)
-3. **M. R. Sales**, M. Mugnaine, R. L. Viana, I. L. Caldas, and J. D. Szezech, Unpredictability in hamiltonian systems with a hierarchical phase space, [Physics Letters A 431, 127991 (2022)](http://mrolims.github.io/files/mrs3.pdf).
+4. F. Teston, A. L. Azevedo, **M. R. Sales**, F. M. Zanetti, and M. G. E. da Luz, The flexibility in choosing distinct Greens functions for the boundary wall method: Waveguides and billiards, [Journal of Physics A: Mathematical and Theoretical 55, 175201 (2022)](http://mrolims.github.io/files/mrs4.pdf)
+3. **M. R. Sales**, M. Mugnaine, R. L. Viana, I. L. Caldas, and J. D. Szezech, Unpredictability in Hamiltonian systems with a hierarchical phase space, [Physics Letters A 431, 127991 (2022)](http://mrolims.github.io/files/mrs3.pdf).
 2. D. R. da Costa, A. Fujita, A. M. Batista, **M. R. Sales**, and J. D. Szezech Jr, Conservative generalized bifurcation diagrams and phase space properties for oval-like billiards, [Chaos, Solitons & Fractals 155, 111707 (2022)](http://mrolims.github.io/files/mrs2.pdf).
 1. **M. R. Sales**, A. L. Azevedo, F. Teston, M. G. E. da Luz, and F. M. Zanetti, Soliton-like structures in the spectrum and the corresponding eigenstates morphology for the quantum desymmetrized Sinai billiard, [Chaos: An Interdisciplinary Journal of Nonlinear Science 31, 113122 (2021)](http://mrolims.github.io/files/mrs1.pdf).
+{: reversed="reversed"}
+
+## Conference presentations
+
+### Oral presentations
+
+2. [VI Workshop on Nonlinear Dynamics](https://www.even3.com.br/vi-wnd2024/). Rio Claro, SP, Brazil.  [*Transporte direcionado e leis de escala em um mapeamento Hamiltoniano não-twist*](http://mrolims.github.io/files/oral2.pdf). From 15 to 17 July 2024.
+1. V Workshop on Nonlinear Dynamics. Rio Claro, SP, Brazil. [*Characterizing stickiness using recurrence time entropy*](http://mrolims.github.io/files/oral1.pdf). 24 May 2024.
+{: reversed="reversed"}
+
+
+### Poster presentations
+
+1. [XXII Conference on Non-equilibrium Statistical Mechanics and Nonlinear Physics - MEDYFINOL 2024](https://www.even3.com.br/medyfinol2024/). [*Characterizing stickiness using recurrence time entropy*](http://mrolims.github.io/files/poster1.pdf). From 28 to 31 May 2024.
 {: reversed="reversed"}
