@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-![Illustration of combining vision and language modalities](/images/lorenz.gif){: .align-right width="400px"}
+![Illustration of combining vision and language modalities](/images/lorenz.gif){: .align-right width="375px"}
 
 Department of Physics\
 São Paulo State University "Júlio Mesquita Filho" (UNESP)\
