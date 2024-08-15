@@ -27,6 +27,6 @@ rolim.sales[at]unesp.br
 
 ## News
 
-* New manuscript submitted to ArXiv on 13 Aug 2024: [Shrinking shrimp-shaped domains and multistability in the dissipative asymmetric kicked rotor map]([https://arxiv.org/abs/2406.06175](https://arxiv.org/abs/2408.07167)).
+* New manuscript submitted to ArXiv on 13 Aug 2024: [Shrinking shrimp-shaped domains and multistability in the dissipative asymmetric kicked rotor map](https://arxiv.org/abs/2408.07167).
 * New manuscript submitted to ArXiv on 10 Jun 2024: [Ratchet current and scaling properties in a nontwist mapping](https://arxiv.org/abs/2406.06175).
 * New manuscript submitted to ArXiv on 6 Jun 2024: [An investigation of escape and scaling properties of a billiard system](https://arxiv.org/abs/2406.04479).
