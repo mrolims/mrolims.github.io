@@ -9,21 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
-
-  * **Ph.D. in Science** <span style="float:right;">**October 2023**</span>\
-  State University of Ponta Grossa\
-  *Thesis title*: [Dynamical aspects of Hamiltonian Systems: Chaos, stickiness, and recurrence plots](http://mrolims.github.io/files/thesis.pdf)\
-  *Advisor*: Prof. Dr. José Danilo Szezech Jr.
-
-  * **Master's Degree in Physics** <span style="float:right;">**February 2020**</span>\
-  Federal University of Paraná\
-  *Dissertation title*: [Dinâmica dos níveis de energia do Bilhar de Sinai dessimetrizado e sua relação com bilhares triangulares](http://mrolims.github.io/files/dissertation.pdf)\
-  *Advisor*: Prof. Dr. Marcos Gomes Eleutério da Luz
-
-* **Bachelor in Physics** <span style="float:right;">**August 2017**</span>\
-Federal University of Paraná
-
 ## Research experience
 
   * **Postdoctoral researcher** <span style="float:right;">**Since Nov 2023**</span>\
@@ -44,6 +29,21 @@ Federal University of Paraná
     * Dynamical measures as quantifiers of chaotic motion
     * Synchronization and chimera state in complex networks
     * Advisor: Prof. Dr. José Danilo Szezech Jr.
+
+## Education
+
+  * **Ph.D. in Science** <span style="float:right;">**October 2023**</span>\
+  State University of Ponta Grossa\
+  *Thesis title*: [Dynamical aspects of Hamiltonian Systems: Chaos, stickiness, and recurrence plots](http://mrolims.github.io/files/thesis.pdf)\
+  *Advisor*: Prof. Dr. José Danilo Szezech Jr.
+
+  * **Master's Degree in Physics** <span style="float:right;">**February 2020**</span>\
+  Federal University of Paraná\
+  *Dissertation title*: [Dinâmica dos níveis de energia do Bilhar de Sinai dessimetrizado e sua relação com bilhares triangulares](http://mrolims.github.io/files/dissertation.pdf)\
+  *Advisor*: Prof. Dr. Marcos Gomes Eleutério da Luz
+
+* **Bachelor in Physics** <span style="float:right;">**August 2017**</span>\
+Federal University of Paraná
 
 ## References
 
