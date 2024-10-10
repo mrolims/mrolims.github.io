@@ -13,6 +13,7 @@ author_profile: true
 
 ### 2024
 
+13. **M. Rolim Sales**, D. Borin, L. C. de Souza, J. D. Szezech Jr., R. L. Viana, I. L. Caldas, and E. D. Leonel, [Chaos, Solitons & Fractals 189 (2024) 115614](http://mrolims.github.io/files/mrs13.pdf).
 12. **M. Rolim Sales**, S. Yanchuk, and J. Kurths, Recurrent chaotic clustering and slow chaos in adaptive networks, [Chaos: An Interdisciplinary Journal of Nonlinear Science 34, 063144 (2024)](http://mrolims.github.io/files/mrs12.pdf).
 11. A. L. Azevedo, A. C. Maioli, F. Teston, **M. R. Sales**, F. M. Zanetti, and M. G. E. da Luz, Wave amplitude gain within wedge waveguides through scattering by simple obstacles, [Phys. Rev. E 109, 025303 (2024)](http://mrolims.github.io/files/mrs11.pdf).
 10. L. C. Souza, **M. R. Sales**, M. Mugnaine, J. D. Szezech, I. L. Caldas, and R. L. Viana, Chaotic escape of impurities and sticky orbits in toroidal plasmas, [Phys. Rev. E 109, 015202 (2024)](http://mrolims.github.io/files/mrs10.pdf).
