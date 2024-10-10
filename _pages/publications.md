@@ -18,7 +18,7 @@ author_profile: true
 11. A. L. Azevedo, A. C. Maioli, F. Teston, **M. R. Sales**, F. M. Zanetti, and M. G. E. da Luz, Wave amplitude gain within wedge waveguides through scattering by simple obstacles, [Phys. Rev. E 109, 025303 (2024)](http://mrolims.github.io/files/mrs11.pdf).
 10. L. C. Souza, **M. R. Sales**, M. Mugnaine, J. D. Szezech, I. L. Caldas, and R. L. Viana, Chaotic escape of impurities and sticky orbits in toroidal plasmas, [Phys. Rev. E 109, 015202 (2024)](http://mrolims.github.io/files/mrs10.pdf).
 {: reversed="reversed"}
-{:start="12"}
+{:start="13"}
 
 ### 2023
 9. E. C. Gabrick, **M. R. Sales**, E. Sayari, J. Trobia, E. K. Lenzi, F. S. Borges, J. D. Szezech Jr., K. C. Iarosz, R. L. Viana, I. L. Caldas, and A. M. Batista, Fractional dynamics and recurrence analysis in cancer model, [Brazilian Journal of Physics 53, 145 (2023)](http://mrolims.github.io/files/mrs9.pdf).
