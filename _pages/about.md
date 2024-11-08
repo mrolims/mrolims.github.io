@@ -27,6 +27,6 @@ rolim.sales[at]unesp.br
 
 ## News
 
+* New article published in Chaos: An Interdisciplinary Journal of Nonlinear Science on 8 Nov 2024: [An investigation of escape and scaling properties of a billiard system](https://doi.org/10.1063/5.0222215).
 * New article published in Chaos, Solitons & Fractals on 10 Oct 2024: [Ratchet current and scaling properties in a nontwist mapping](https://doi.org/10.1016/j.chaos.2024.115614).
 * New manuscript submitted to ArXiv on 13 Aug 2024: [Shrinking shrimp-shaped domains and multistability in the dissipative asymmetric kicked rotor map](https://arxiv.org/abs/2408.07167) (Accepted for publication in Chaos).
-* New manuscript submitted to ArXiv on 6 Jun 2024: [An investigation of escape and scaling properties of a billiard system](https://arxiv.org/abs/2406.04479) (Accepted for publication in Chaos).

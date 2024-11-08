@@ -16,5 +16,6 @@ author_profile: true
 
 ### Poster presentations
 
+2. [IV Encontro Nacional de Física Estatística](https://www.enfe-2024.com/). From 3 to 7 November 2024 at Curitiba, PR, Brazil. [*Directed transport and scaling laws in the 𝐄 × 𝐁 drift motion*](http://mrolims.github.io/files/poster2.pdf)
 1. [XXII Conference on Non-equilibrium Statistical Mechanics and Nonlinear Physics - MEDYFINOL 2024](https://www.even3.com.br/medyfinol2024/). From 28 to 31 May 2024 at Caraguatatuba, SP, Brazil. [*Characterizing stickiness using recurrence time entropy*](http://mrolims.github.io/files/poster1.pdf).
 {: reversed="reversed"}
