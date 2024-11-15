@@ -13,13 +13,14 @@ author_profile: true
 
 ### 2024
 
+15. **M. Rolim Sales**, M. Mugnaine, E. D. Leonel, I. L. Caldas, and J. D. Szezech Jr., Shrinking shrimp-shaped domains and multistability in the dissipative asymmetric kicked rotor map, [Chaos: An Interdisciplinary Journal of Nonlinear Science 34, 113129 (2024)](http://mrolims.github.io/files/mrs15.pdf).
 14. **M. Rolim Sales**, D. Borin, D. R. da Costa, J. D. Szezech Jr., and E. D. Leonel, An investigation of escape and scaling properties of a billiard system, [Chaos: An Interdisciplinary Journal of Nonlinear Science 34, 113122 (2024)](http://mrolims.github.io/files/mrs14.pdf).
 13. **M. Rolim Sales**, D. Borin, L. C. de Souza, J. D. Szezech Jr., R. L. Viana, I. L. Caldas, and E. D. Leonel, Ratchet current and scaling properties in a nontwist mapping, [Chaos, Solitons & Fractals 189, 115614 (2024)](http://mrolims.github.io/files/mrs13.pdf).
 12. **M. Rolim Sales**, S. Yanchuk, and J. Kurths, Recurrent chaotic clustering and slow chaos in adaptive networks, [Chaos: An Interdisciplinary Journal of Nonlinear Science 34, 063144 (2024)](http://mrolims.github.io/files/mrs12.pdf).
 11. A. L. Azevedo, A. C. Maioli, F. Teston, **M. R. Sales**, F. M. Zanetti, and M. G. E. da Luz, Wave amplitude gain within wedge waveguides through scattering by simple obstacles, [Phys. Rev. E 109, 025303 (2024)](http://mrolims.github.io/files/mrs11.pdf).
 10. L. C. Souza, **M. R. Sales**, M. Mugnaine, J. D. Szezech, I. L. Caldas, and R. L. Viana, Chaotic escape of impurities and sticky orbits in toroidal plasmas, [Phys. Rev. E 109, 015202 (2024)](http://mrolims.github.io/files/mrs10.pdf).
 {: reversed="reversed"}
-{:start="14"}
+{:start="15"}
 
 ### 2023
 9. E. C. Gabrick, **M. R. Sales**, E. Sayari, J. Trobia, E. K. Lenzi, F. S. Borges, J. D. Szezech Jr., K. C. Iarosz, R. L. Viana, I. L. Caldas, and A. M. Batista, Fractional dynamics and recurrence analysis in cancer model, [Brazilian Journal of Physics 53, 145 (2023)](http://mrolims.github.io/files/mrs9.pdf).
