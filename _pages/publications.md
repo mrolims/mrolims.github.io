@@ -11,6 +11,12 @@ author_profile: true
 
 ## Articles
 
+### 2025
+
+16. V. dos Santos, **M. Rolim Sales**, I. L. Caldas, R. L. Viana, and J. D. Szezech Jr., Extended networks as a route of stabilization of divergent dynamics, [Chaos, Solitons and Fractals 193, 116115 (2025)](http://mrolims.github.io/files/mrs16.pdf).
+{: reversed="reversed"}
+{:start="16"}
+
 ### 2024
 
 15. **M. Rolim Sales**, M. Mugnaine, E. D. Leonel, I. L. Caldas, and J. D. Szezech Jr., Shrinking shrimp-shaped domains and multistability in the dissipative asymmetric kicked rotor map, [Chaos: An Interdisciplinary Journal of Nonlinear Science 34, 113129 (2024)](http://mrolims.github.io/files/mrs15.pdf).
