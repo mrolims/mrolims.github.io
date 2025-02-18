@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile_picture2.png"
   name             : "Matheus Rolim Sales"
-  pronouns         : "he/his"
+  pronouns         : "he/him/his"
   bio              : "Postdoctoral researcher at the Department of Physics of the São Paulo State University (UNESP)"
   location         : "Rio Claro, SP, Brazil"
   #employer         : "Red Brick University"
@@ -31,7 +31,7 @@ author:
   email            : "rolim.sales[at]unesp.br"
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : "http://arxiv.org/a/rolimsales_m_1"
   googlescholar    : "https://scholar.google.com.br/citations?user=BPNd5nMAAAAJ&hl"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-1121-6371"

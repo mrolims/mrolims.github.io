@@ -9,11 +9,15 @@ redirect_from:
 
 ![Illustration of combining vision and language modalities](/images/lorenz.gif){: .align-right width="375px"}
 
-Department of Physics\
-São Paulo State University "Júlio de Mesquita Filho" (UNESP)\
-Av. 24 A - Bela Vista, Rio Claro - SP, Brazil, 13506-900\
-Physics Building, Office 26\
+São Paulo State University (UNESP)\
+Institute of Geosciences and Exact Sciences\
+13506-900, Rio Claro, SP, Brazil\
 rolim.sales[at]unesp.br
+
+University of Essex\
+School of Mathematics, Statistics and Actuarial Science\
+Wivenhoe Park, Colchester, CO4 3SQ, UK\
+mr24913[at]essex.ac.uk
 
 ## Research interest
 
