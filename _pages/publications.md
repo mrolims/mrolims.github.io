@@ -13,9 +13,10 @@ author_profile: true
 
 ### 2025
 
+17. P. G. Buiar, J. D. Szezech Jr., **M. Rolim Sales**, G. M. Favero, Time to focus again on matrix metalloproteinases? Results of complex network analysis involving the pathophysiology of HER2-positive breast cancer, [ecancer 19, 1850 (2025)](http://mrolims.github.io/files/mrs17.pdf).
 16. V. dos Santos, **M. Rolim Sales**, I. L. Caldas, R. L. Viana, and J. D. Szezech Jr., Extended networks as a route of stabilization of divergent dynamics, [Chaos, Solitons and Fractals 193, 116115 (2025)](http://mrolims.github.io/files/mrs16.pdf).
 {: reversed="reversed"}
-{:start="16"}
+{:start="17"}
 
 ### 2024
 
