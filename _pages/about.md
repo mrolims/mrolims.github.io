@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dr. Matheus Rolim Sales' Academic Website"
+title: "Dr. Matheus Rolim Sales – Academic Website"
 author_profile: true
 redirect_from: 
   - /about/
