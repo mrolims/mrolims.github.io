@@ -31,6 +31,7 @@ mr24913[at]essex.ac.uk
 
 ## News
 
+* New conference paper published on 30 July 2025: [Recurrence-based characterization of stickiness in Hamiltonian systems](https://link.springer.com/chapter/10.1007/978-3-031-91062-3_6).
 * New article submitted to arXiv on 16 Jun 2025: [pynamicalsys: A Python toolkit for the analysis of dynamical systems](https://arxiv.org/abs/2506.14044).
 * New article submitted to SSRN on 29 May 2025: [Transport Mechanisms Associated with Non-Integer Wavenumbers in a Nontwist Map](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5273501) (Accepted for publication in Chaos, Solitons and Fractals).
 * New article submitted to SSRN on 22 May 2025: [Pattern formation in symplectic coupled map lattices](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5265393).
