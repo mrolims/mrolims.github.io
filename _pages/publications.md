@@ -51,6 +51,11 @@ author_profile: true
 1. **M. R. Sales**, A. L. Azevedo, F. Teston, M. G. E. da Luz, and F. M. Zanetti, Soliton-like structures in the spectrum and the corresponding eigenstates morphology for the quantum desymmetrized Sinai billiard, [Chaos: An Interdisciplinary Journal of Nonlinear Science 31, 113122 (2021)](http://mrolims.github.io/files/mrs1.pdf).
 {: reversed="reversed"}
 {:start="1"}
+
+## Book chapters
+
+1. R. L. Viana, L. C. Souza, **M. Rolim Sales**, M. Mugnaine, J. D. Szezech Jr., I. L. Caldas, N. Marwan, and J. Kurths, Recurrence-Based Characterization of Stickiness in Hamiltonian Systems. In: [*Recurrence Plots and Their Quantifications: Methodological Breakthroughs and Interdisciplinary Discoveries*](http://mrolims.github.io/files/mrs_chap1.pdf). Springer Proceedings in Complexity. Springer, Cham, 2025.
+
 <!-- {% include base_path %}
 
 {% for post in site.publications reversed %}
