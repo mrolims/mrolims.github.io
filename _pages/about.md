@@ -31,9 +31,9 @@ mr24913[at]essex.ac.uk
 
 ## News
 
+* New article published in Chaos, Solitons and Fractals on 7 Aug 2025: [Transport mechanisms associated with non-integer wavenumbers in a discontinuous nontwist map](https://www.sciencedirect.com/science/article/pii/S0960077925009798).
 * New conference paper published on 30 July 2025: [Recurrence-based characterization of stickiness in Hamiltonian systems](https://link.springer.com/chapter/10.1007/978-3-031-91062-3_6).
 * New article submitted to arXiv on 16 Jun 2025: [pynamicalsys: A Python toolkit for the analysis of dynamical systems](https://arxiv.org/abs/2506.14044).
-* New article submitted to SSRN on 29 May 2025: [Transport Mechanisms Associated with Non-Integer Wavenumbers in a Nontwist Map](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5273501) (Accepted for publication in Chaos, Solitons and Fractals).
 * New article submitted to SSRN on 22 May 2025: [Pattern formation in symplectic coupled map lattices](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5265393).
 * New article submitted to arXiv on 3 Apr 2025: [Characterizing and quantifying weak chaos in fractional dynamics](https://arxiv.org/abs/2504.03007).
 * New article published in ecancermedicalscience on 18 Feb 2025: [Time to focus again on matrix metalloproteinases? Results of complex network analysis involving the pathophysiology of HER2-positive breast cancer](https://ecancer.org/en/journal/article/1850-time-to-focus-again-on-matrix-metalloproteinases-results-of-complex-network-analysis-involving-the-pathophysiology-of-her2-positive-breast-cancer).
