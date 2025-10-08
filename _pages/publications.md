@@ -13,13 +13,14 @@ author_profile: true
 
 ### 2025
 
-20. D. Borin, J. D. Szezech Jr., **M. Rolim Sales**, Characterizing and quantifying weak chaos in fractional dynamics, [Chaos, Solitons and Fractals 200 117137 (2025)](http://mrolims.github.io/files/mrs20.pdf).
-19. L. C. de Souza, **M. Rolim Sales**, J. D. Szezech Jr., R. L. Viana, I. L. Caldas, M. S. Baptista, Pattern formation in symplectic coupled map lattices, [Chaos, Solitons and Fractals 200 117057 (2025)](http://mrolims.github.io/files/mrs19.pdf).
-18. **M. Rolim Sales**, M. Mugnaine, A. L. R. de Moraes, E. D. Leonel, C. G. Antonopoulos, I. L. Caldas, J. D. Szezech Jr., Transport mechanisms associated with non-integer wavenumbers in a discontinuous nontwist map, [Chaos, Solitons and Fractals 200, 116966 (2025)](http://mrolims.github.io/files/mrs18.pdf).
-17. P. G. Buiar, J. D. Szezech Jr., **M. Rolim Sales**, G. M. Favero, Time to focus again on matrix metalloproteinases? Results of complex network analysis involving the pathophysiology of HER2-positive breast cancer, [ecancer 19, 1850 (2025)](http://mrolims.github.io/files/mrs17.pdf).
+21. **M. Rolim Sales**, L. C. de Souza, D. Borin, M. Mugnaine, J. D. Szezech, R. L. Viana, I. L. Caldas, E. D. Leonel, and C. G. Antonopoulos, [Chaos Solitons and Fractal 201 117269 (2025)](http://mrolims.github.io/files/mrs21.pdf).
+20. D. Borin, J. D. Szezech Jr., and **M. Rolim Sales**, Characterizing and quantifying weak chaos in fractional dynamics, [Chaos, Solitons and Fractals 200 117137 (2025)](http://mrolims.github.io/files/mrs20.pdf).
+19. L. C. de Souza, **M. Rolim Sales**, J. D. Szezech Jr., R. L. Viana, I. L. Caldas, and M. S. Baptista, Pattern formation in symplectic coupled map lattices, [Chaos, Solitons and Fractals 200 117057 (2025)](http://mrolims.github.io/files/mrs19.pdf).
+18. **M. Rolim Sales**, M. Mugnaine, A. L. R. de Moraes, E. D. Leonel, C. G. Antonopoulos, I. L. Caldas, and J. D. Szezech Jr., Transport mechanisms associated with non-integer wavenumbers in a discontinuous nontwist map, [Chaos, Solitons and Fractals 200, 116966 (2025)](http://mrolims.github.io/files/mrs18.pdf).
+17. P. G. Buiar, J. D. Szezech Jr., **M. Rolim Sales**, and G. M. Favero, Time to focus again on matrix metalloproteinases? Results of complex network analysis involving the pathophysiology of HER2-positive breast cancer, [ecancer 19, 1850 (2025)](http://mrolims.github.io/files/mrs17.pdf).
 16. V. dos Santos, **M. Rolim Sales**, I. L. Caldas, R. L. Viana, and J. D. Szezech Jr., Extended networks as a route of stabilization of divergent dynamics, [Chaos, Solitons and Fractals 193, 116115 (2025)](http://mrolims.github.io/files/mrs16.pdf).
 {: reversed="reversed"}
-{:start="20"}
+{:start="21"}
 
 ### 2024
 
@@ -55,7 +56,7 @@ author_profile: true
 {: reversed="reversed"}
 {:start="1"}
 
-## Book chapters
+## Conference papers
 
 1. R. L. Viana, L. C. Souza, **M. Rolim Sales**, M. Mugnaine, J. D. Szezech Jr., I. L. Caldas, N. Marwan, and J. Kurths, Recurrence-Based Characterization of Stickiness in Hamiltonian Systems. In: [*Recurrence Plots and Their Quantifications: Methodological Breakthroughs and Interdisciplinary Discoveries*](http://mrolims.github.io/files/mrs_chap1.pdf). Springer Proceedings in Complexity. Springer, Cham, 2025.
 
