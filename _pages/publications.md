@@ -11,6 +11,12 @@ author_profile: true
 
 ## Articles
 
+### 2026
+
+22. **M. Rolim Sales**, E. D. Leonel, and C. G. Antonopoulos, On the behavior of Linear Dependence, Smaller, and Generalized Alignment Indices in discrete and continuous chaotic systems, [Chaos, Solitons and Fractals 205, 117884 (2026)](http://mrolims.github.io/files/mrs22.pdf).
+{: reversed="reversed"}
+{:start="22"}
+
 ### 2025
 
 21. **M. Rolim Sales**, L. C. de Souza, D. Borin, M. Mugnaine, J. D. Szezech, R. L. Viana, I. L. Caldas, E. D. Leonel, and C. G. Antonopoulos, pynamicalsys: A Python toolkit for the analysis of dynamical systems, [Chaos Solitons and Fractal 201 117269 (2025)](http://mrolims.github.io/files/mrs21.pdf).
