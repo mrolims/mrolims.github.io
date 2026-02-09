@@ -13,27 +13,28 @@ author_profile: true
 
 ### 2026
 
-22. **M. Rolim Sales**, E. D. Leonel, and C. G. Antonopoulos, On the behavior of Linear Dependence, Smaller, and Generalized Alignment Indices in discrete and continuous chaotic systems, [Chaos, Solitons and Fractals 205, 117884 (2026)](http://mrolims.github.io/files/mrs22.pdf).
+23. D. Borin, **M. R. Sales**, E. D. Leonel, and D. F. M. de Oliveira, On the dynamics of the q-Tsallis Gauss Iterated Map, [Physica A 686, 131352 (2026)](http://mrolims.github.io/files/mrs23.pdf)
+22. **M. R. Sales**, E. D. Leonel, and C. G. Antonopoulos, On the behavior of Linear Dependence, Smaller, and Generalized Alignment Indices in discrete and continuous chaotic systems, [Chaos, Solitons and Fractals 205, 117884 (2026)](http://mrolims.github.io/files/mrs22.pdf).
 {: reversed="reversed"}
-{:start="22"}
+{:start="23"}
 
 ### 2025
 
-21. **M. Rolim Sales**, L. C. de Souza, D. Borin, M. Mugnaine, J. D. Szezech, R. L. Viana, I. L. Caldas, E. D. Leonel, and C. G. Antonopoulos, pynamicalsys: A Python toolkit for the analysis of dynamical systems, [Chaos Solitons and Fractal 201 117269 (2025)](http://mrolims.github.io/files/mrs21.pdf).
-20. D. Borin, J. D. Szezech Jr., and **M. Rolim Sales**, Characterizing and quantifying weak chaos in fractional dynamics, [Chaos, Solitons and Fractals 200 117137 (2025)](http://mrolims.github.io/files/mrs20.pdf).
-19. L. C. de Souza, **M. Rolim Sales**, J. D. Szezech Jr., R. L. Viana, I. L. Caldas, and M. S. Baptista, Pattern formation in symplectic coupled map lattices, [Chaos, Solitons and Fractals 200 117057 (2025)](http://mrolims.github.io/files/mrs19.pdf).
-18. **M. Rolim Sales**, M. Mugnaine, A. L. R. de Moraes, E. D. Leonel, C. G. Antonopoulos, I. L. Caldas, and J. D. Szezech Jr., Transport mechanisms associated with non-integer wavenumbers in a discontinuous nontwist map, [Chaos, Solitons and Fractals 200, 116966 (2025)](http://mrolims.github.io/files/mrs18.pdf).
-17. P. G. Buiar, J. D. Szezech Jr., **M. Rolim Sales**, and G. M. Favero, Time to focus again on matrix metalloproteinases? Results of complex network analysis involving the pathophysiology of HER2-positive breast cancer, [ecancer 19, 1850 (2025)](http://mrolims.github.io/files/mrs17.pdf).
-16. V. dos Santos, **M. Rolim Sales**, I. L. Caldas, R. L. Viana, and J. D. Szezech Jr., Extended networks as a route of stabilization of divergent dynamics, [Chaos, Solitons and Fractals 193, 116115 (2025)](http://mrolims.github.io/files/mrs16.pdf).
+21. **M. R. Sales**, L. C. de Souza, D. Borin, M. Mugnaine, J. D. Szezech, R. L. Viana, I. L. Caldas, E. D. Leonel, and C. G. Antonopoulos, pynamicalsys: A Python toolkit for the analysis of dynamical systems, [Chaos Solitons and Fractal 201 117269 (2025)](http://mrolims.github.io/files/mrs21.pdf).
+20. D. Borin, J. D. Szezech Jr., and **M. R. Sales**, Characterizing and quantifying weak chaos in fractional dynamics, [Chaos, Solitons and Fractals 200 117137 (2025)](http://mrolims.github.io/files/mrs20.pdf).
+19. L. C. de Souza, **M. R. Sales**, J. D. Szezech Jr., R. L. Viana, I. L. Caldas, and M. S. Baptista, Pattern formation in symplectic coupled map lattices, [Chaos, Solitons and Fractals 200 117057 (2025)](http://mrolims.github.io/files/mrs19.pdf).
+18. **M. R. Sales**, M. Mugnaine, A. L. R. de Moraes, E. D. Leonel, C. G. Antonopoulos, I. L. Caldas, and J. D. Szezech Jr., Transport mechanisms associated with non-integer wavenumbers in a discontinuous nontwist map, [Chaos, Solitons and Fractals 200, 116966 (2025)](http://mrolims.github.io/files/mrs18.pdf).
+17. P. G. Buiar, J. D. Szezech Jr., **M. R. Sales**, and G. M. Favero, Time to focus again on matrix metalloproteinases? Results of complex network analysis involving the pathophysiology of HER2-positive breast cancer, [ecancer 19, 1850 (2025)](http://mrolims.github.io/files/mrs17.pdf).
+16. V. dos Santos, **M. R. Sales**, I. L. Caldas, R. L. Viana, and J. D. Szezech Jr., Extended networks as a route of stabilization of divergent dynamics, [Chaos, Solitons and Fractals 193, 116115 (2025)](http://mrolims.github.io/files/mrs16.pdf).
 {: reversed="reversed"}
 {:start="21"}
 
 ### 2024
 
-15. **M. Rolim Sales**, M. Mugnaine, E. D. Leonel, I. L. Caldas, and J. D. Szezech Jr., Shrinking shrimp-shaped domains and multistability in the dissipative asymmetric kicked rotor map, [Chaos: An Interdisciplinary Journal of Nonlinear Science 34, 113129 (2024)](http://mrolims.github.io/files/mrs15.pdf).
-14. **M. Rolim Sales**, D. Borin, D. R. da Costa, J. D. Szezech Jr., and E. D. Leonel, An investigation of escape and scaling properties of a billiard system, [Chaos: An Interdisciplinary Journal of Nonlinear Science 34, 113122 (2024)](http://mrolims.github.io/files/mrs14.pdf).
-13. **M. Rolim Sales**, D. Borin, L. C. de Souza, J. D. Szezech Jr., R. L. Viana, I. L. Caldas, and E. D. Leonel, Ratchet current and scaling properties in a nontwist mapping, [Chaos, Solitons & Fractals 189, 115614 (2024)](http://mrolims.github.io/files/mrs13.pdf).
-12. **M. Rolim Sales**, S. Yanchuk, and J. Kurths, Recurrent chaotic clustering and slow chaos in adaptive networks, [Chaos: An Interdisciplinary Journal of Nonlinear Science 34, 063144 (2024)](http://mrolims.github.io/files/mrs12.pdf).
+15. **M. R. Sales**, M. Mugnaine, E. D. Leonel, I. L. Caldas, and J. D. Szezech Jr., Shrinking shrimp-shaped domains and multistability in the dissipative asymmetric kicked rotor map, [Chaos: An Interdisciplinary Journal of Nonlinear Science 34, 113129 (2024)](http://mrolims.github.io/files/mrs15.pdf).
+14. **M. R. Sales**, D. Borin, D. R. da Costa, J. D. Szezech Jr., and E. D. Leonel, An investigation of escape and scaling properties of a billiard system, [Chaos: An Interdisciplinary Journal of Nonlinear Science 34, 113122 (2024)](http://mrolims.github.io/files/mrs14.pdf).
+13. **M. R. Sales**, D. Borin, L. C. de Souza, J. D. Szezech Jr., R. L. Viana, I. L. Caldas, and E. D. Leonel, Ratchet current and scaling properties in a nontwist mapping, [Chaos, Solitons & Fractals 189, 115614 (2024)](http://mrolims.github.io/files/mrs13.pdf).
+12. **M. R. Sales**, S. Yanchuk, and J. Kurths, Recurrent chaotic clustering and slow chaos in adaptive networks, [Chaos: An Interdisciplinary Journal of Nonlinear Science 34, 063144 (2024)](http://mrolims.github.io/files/mrs12.pdf).
 11. A. L. Azevedo, A. C. Maioli, F. Teston, **M. R. Sales**, F. M. Zanetti, and M. G. E. da Luz, Wave amplitude gain within wedge waveguides through scattering by simple obstacles, [Phys. Rev. E 109, 025303 (2024)](http://mrolims.github.io/files/mrs11.pdf).
 10. L. C. Souza, **M. R. Sales**, M. Mugnaine, J. D. Szezech, I. L. Caldas, and R. L. Viana, Chaotic escape of impurities and sticky orbits in toroidal plasmas, [Phys. Rev. E 109, 015202 (2024)](http://mrolims.github.io/files/mrs10.pdf).
 {: reversed="reversed"}
@@ -64,7 +65,7 @@ author_profile: true
 
 ## Conference papers
 
-1. R. L. Viana, L. C. Souza, **M. Rolim Sales**, M. Mugnaine, J. D. Szezech Jr., I. L. Caldas, N. Marwan, and J. Kurths, Recurrence-Based Characterization of Stickiness in Hamiltonian Systems. In: [*Recurrence Plots and Their Quantifications: Methodological Breakthroughs and Interdisciplinary Discoveries*](http://mrolims.github.io/files/mrs_chap1.pdf). Springer Proceedings in Complexity. Springer, Cham, 2025.
+1. R. L. Viana, L. C. Souza, **M. R. Sales**, M. Mugnaine, J. D. Szezech Jr., I. L. Caldas, N. Marwan, and J. Kurths, Recurrence-Based Characterization of Stickiness in Hamiltonian Systems. In: [*Recurrence Plots and Their Quantifications: Methodological Breakthroughs and Interdisciplinary Discoveries*](http://mrolims.github.io/files/mrs_chap1.pdf). Springer Proceedings in Complexity. Springer, Cham, 2025.
 
 <!-- {% include base_path %}
 
