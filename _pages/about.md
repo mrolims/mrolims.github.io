@@ -14,11 +14,6 @@ Institute of Geosciences and Exact Sciences\
 13506-900, Rio Claro, SP, Brazil\
 rolim.sales[at]unesp.br
 
-University of Essex\
-School of Mathematics, Statistics and Actuarial Science\
-Wivenhoe Park, Colchester, CO4 3SQ, UK\
-mr24913[at]essex.ac.uk
-
 ## Research interest
 
 - Nonlinear dynamics and chaos
