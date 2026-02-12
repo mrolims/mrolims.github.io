@@ -13,7 +13,7 @@ author_profile: true
 
 ### 2026
 
-23. D. Borin, **M. R. Sales**, E. D. Leonel, and D. F. M. de Oliveira, On the dynamics of the q-Tsallis Gauss Iterated Map, [Physica A 686, 131352 (2026)](http://mrolims.github.io/files/mrs23.pdf)
+23. D. Borin, **M. R. Sales**, E. D. Leonel, and D. F. M. de Oliveira, On the dynamics of the q-Tsallis Gauss Iterated Map, [Physica A 686, 131352 (2026)](http://mrolims.github.io/files/mrs23.pdf).
 22. **M. R. Sales**, E. D. Leonel, and C. G. Antonopoulos, On the behavior of Linear Dependence, Smaller, and Generalized Alignment Indices in discrete and continuous chaotic systems, [Chaos, Solitons and Fractals 205, 117884 (2026)](http://mrolims.github.io/files/mrs22.pdf).
 {: reversed="reversed"}
 {:start="23"}
