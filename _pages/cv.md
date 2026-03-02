@@ -12,16 +12,16 @@ redirect_from:
 ## Research experience
 
 
-  * **Visiting Fellow** <span style="float:right;">**Since Feb 2025**</span>\
-  University of Essex
-    * Postdoctoral researcher at the School of Mathematics, Statistics and Actuarial Science of the University of Essex at Colchescher, UK
-    * Mechanism of transport in Hamiltonian systems
-    * Supervisor: Dr. Chris Antonopoulos
   * **Postdoctoral researcher** <span style="float:right;">**Since Nov 2023**</span>\
   São Paulo State University
     * Postdoctoral researcher at the Deparment of Physics of São Paulo State University at Rio Claro, SP, Brazil
     * Transport phenomena in Hamiltonian systems
     * Supervisor: Prof. Dr. Edson Denis Leonel
+  * **Visiting Fellow** <span style="float:right;">**From Feb 2025 to Jan 2026**</span>\
+  University of Essex
+    * Postdoctoral researcher at the School of Mathematics, Statistics and Actuarial Science of the University of Essex at Colchescher, UK
+    * Mechanism of transport in Hamiltonian systems
+    * Supervisor: Dr. Chris Antonopoulos
   * **Exchange doctorate project** <span style="float:right;">**From Oct 2022 to Mar 2023**</span>\
   Potsdam Institute for Climate Impact Research
     * Visiting academic at Potsdam Institute for Climate Impact Research at Potsdam, Germany
