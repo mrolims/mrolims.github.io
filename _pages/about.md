@@ -26,6 +26,7 @@ rolim.sales[at]unesp.br
 
 ## News
 
+- New preprint submitted to arXiv on 17 Mar 2026: [Hierarchical fragmentation of regular islands in a discontinuous nontwist map](https://arxiv.org/abs/2603.17120).
 - New preprint submitted to arXiv on 10 Feb 2026: [On the dynamical and statistical properties of a quartic mean-field Hamiltonian model](https://arxiv.org/abs/2602.10297).
 - New article published in Physica A on 9 Feb 2026: [On the dynamics of the q-Tsallis Gauss Iterated Map](https://doi.org/10.1016/j.physa.2026.131352).
 - New article published in Chaos, Solitons and Fractals on 9 Jan 2026: [On the behavior of Linear Dependence, Smaller, and Generalized Alignment Indices in discrete and continuous chaotic systems](https://doi.org/10.1016/j.chaos.2026.117884).
