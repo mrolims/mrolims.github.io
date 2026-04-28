@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Matheus' Homepage"
+title                    : "Matheus's Homepage"
 title_separator          : "-"
 name                     : &name "Matheus Rolim Sales"
 description              : &description "personal description"
