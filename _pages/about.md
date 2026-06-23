@@ -26,6 +26,7 @@ rolim.sales[at]unesp.br
 
 ## News
 
+- New preprint submitted to arXiv on 22 Jun 2026: [Recurrence in two degrees of freedom Hamiltonian flows](https://arxiv.org/abs/2606.23501).
 - New article published in Chaos on 16 Jun 2026: [Hierarchical fragmentation of regular islands in a discontinuous nontwist map](https://doi.org/10.1063/5.0335604).
 - New preprint submitted to arXiv on 10 Feb 2026: [On the dynamical and statistical properties of a quartic mean-field Hamiltonian model](https://arxiv.org/abs/2602.10297).
 - New article published in Physica A on 9 Feb 2026: [On the dynamics of the q-Tsallis Gauss Iterated Map](https://doi.org/10.1016/j.physa.2026.131352).
