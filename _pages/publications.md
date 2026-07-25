@@ -14,12 +14,13 @@ author_profile: true
 
 ### 2026
 
+26. M. Mugnaine, **M. R. Sales**, E. D. Leonel, I. L. Caldas, J. D. Szezech Jr., _Role of manifolds in the transport of chaotic trajectories in the standard nontwist map_, [Phys. Rev. E 114, 014222 (2026)](http://mrolims.github.io/files/mrs26.pdf)
 25. **M. R. Sales**, E. D. Leonel, C. G. Antonopoulos, _On the dynamical and statistical properties of a quartic mean-field Hamiltonian model_, [Chaos, Solitons & Fractals 211, 118787 (2026)](http://mrolims.github.io/files/mrs25.pdf).
 24. **M. R. Sales**, M. Mugnaine, L. C. Souza, I. L. Caldas, E. D. Leonel, J. D. Szezech Jr., _Hierarchical fragmentation of regular islands in a discontinuous nontwist map_, [Chaos 36, 063129 (2026)](http://mrolims.github.io/files/mrs24.pdf). [Supplementary Material](http://mrolims.github.io/files/mrs24_suppl_material.pdf).
 23. D. Borin, **M. R. Sales**, E. D. Leonel, and D. F. M. de Oliveira, _On the dynamics of the q-Tsallis Gauss Iterated Map_, [Physica A 686, 131352 (2026)](http://mrolims.github.io/files/mrs23.pdf).
 22. **M. R. Sales**, E. D. Leonel, and C. G. Antonopoulos, _On the behavior of Linear Dependence, Smaller, and Generalized Alignment Indices in discrete and continuous chaotic systems_, [Chaos, Solitons and Fractals 205, 117884 (2026)](http://mrolims.github.io/files/mrs22.pdf).
 {: reversed="reversed"}
-{:start="25"}
+{:start="26"}
 
 ### 2025
 

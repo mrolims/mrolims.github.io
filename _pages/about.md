@@ -26,6 +26,7 @@ rolim.sales[at]unesp.br
 
 ## News
 
+- New article published in Physical Review E on 24 Jul 2026: [Role of manifolds in the transport of chaotic trajectories in the standard nontwist map](https://doi.org/10.1103/28br-cb3m).
 - New article published in Chaos, Solitons and Fractals on 15 Jul 2026: [On the dynamical and statistical properties of a quartic mean-field Hamiltonian model](https://doi.org/10.1016/j.chaos.2026.118787).
 - New preprint submitted to arXiv on 22 Jun 2026: [Recurrence in two degrees of freedom Hamiltonian flows](https://arxiv.org/abs/2606.23501).
 - New article published in Chaos on 16 Jun 2026: [Hierarchical fragmentation of regular islands in a discontinuous nontwist map](https://doi.org/10.1063/5.0335604).
