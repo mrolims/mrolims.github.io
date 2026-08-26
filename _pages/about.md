@@ -34,4 +34,3 @@ rolim.sales[at]unesp.br
 - New article published in Chaos, Solitons and Fractals on 9 Jan 2026: [On the behavior of Linear Dependence, Smaller, and Generalized Alignment Indices in discrete and continuous chaotic systems](https://doi.org/10.1016/j.chaos.2026.117884).
 - New article published in Chaos, Solitons and Fractals on 8 Oct 2025: [pynamicalsys: A Python toolkit for the analysis of dynamical systems](https://www.sciencedirect.com/science/article/pii/S0960077925012822).
 - New article published in Chaos, Solitons and Fractals on 11 Sep 2025: [Characterizing and quantifying weak chaos in fractional dynamics](https://www.sciencedirect.com/science/article/pii/S0960077925011506).
-- New article published in Chaos, Solitons and Fractals on 28 Aug 2025: [Pattern formation in symplectic coupled map lattices](https://doi.org/10.1016/j.chaos.2025.117057).
