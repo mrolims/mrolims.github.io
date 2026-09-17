@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-![Illustration of combining vision and language modalities](/images/lorenz.gif){: .align-right width="375px"}
-
 São Paulo State University (UNESP)\
 Institute of Geosciences and Exact Sciences\
 13506-900, Rio Claro, SP, Brazil\
