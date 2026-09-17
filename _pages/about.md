@@ -31,13 +31,13 @@ rolim.sales[at]unesp.br
     <h4>pynamicalsys</h4>
     <p>An open-source Python toolkit for the analysis of dynamical systems.</p>
   </a>
-  <a class="feature-card feature-card--link" href="/files/mrs26.pdf">
-    <h4>Transport and manifolds</h4>
-    <p>Role of manifolds in the transport of chaotic trajectories in the standard nontwist map. Phys. Rev. E (2026).</p>
+  <a class="feature-card feature-card--link" href="/files/mrs12.pdf">
+    <h4>New phenomenon on adaptive networks</h4>
+    <p>Identification of recurrent chaotic clustering and slow chaos in adaptive networks. Chaos 34, 063144 (2024).</p>
   </a>
   <a class="feature-card feature-card--link" href="/files/mrs7.pdf">
     <h4>Stickiness and recurrence</h4>
-    <p>Stickiness and recurrence plots: an entropy-based approach. Chaos (2023).</p>
+    <p>Stickiness and recurrence plots: An entropy-based approach. Chaos  33, 033140 (2023).</p>
   </a>
 </div>
 
