@@ -1,18 +1,20 @@
 ---
 permalink: /
-title: "Dr. Matheus Rolim Sales – Academic Website"
+title: "Matheus Rolim Sales"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
+<p class="lede">I am a postdoctoral researcher in physics working on nonlinear dynamics and chaos. My research addresses transport and diffusion in Hamiltonian systems, chaos indicators and recurrence-based methods, and the collective dynamics of complex networks. I also develop open-source scientific software for the analysis of dynamical systems.</p>
+
 São Paulo State University (UNESP)\
 Institute of Geosciences and Exact Sciences\
 13506-900, Rio Claro, SP, Brazil\
 rolim.sales[at]unesp.br
 
-## Research interest
+## Research interests
 
 - Nonlinear dynamics and chaos
 - Hamiltonian systems
@@ -21,6 +23,23 @@ rolim.sales[at]unesp.br
 - Synchronization and chimera states in complex networks
 - Adaptive dynamical networks
 - Neuronal models
+
+## Selected work
+
+<div class="feature-grid">
+  <a class="feature-card feature-card--link" href="/software/#pynamicalsys">
+    <h4>pynamicalsys</h4>
+    <p>An open-source Python toolkit for the analysis of dynamical systems.</p>
+  </a>
+  <a class="feature-card feature-card--link" href="/files/mrs26.pdf">
+    <h4>Transport and manifolds</h4>
+    <p>Role of manifolds in the transport of chaotic trajectories in the standard nontwist map. Phys. Rev. E (2026).</p>
+  </a>
+  <a class="feature-card feature-card--link" href="/files/mrs7.pdf">
+    <h4>Stickiness and recurrence</h4>
+    <p>Stickiness and recurrence plots: an entropy-based approach. Chaos (2023).</p>
+  </a>
+</div>
 
 ## News
 

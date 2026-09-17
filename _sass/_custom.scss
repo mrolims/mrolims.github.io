@@ -166,3 +166,45 @@ html[data-theme="dark"] figure.highlight::before {
 .project__logo--dark { display: none; }
 html[data-theme="dark"] .project__logo--light { display: none; }
 html[data-theme="dark"] .project__logo--dark { display: block; }
+
+/* ================================================================
+   Typography (Inter) + homepage bits
+   ================================================================ */
+:root { --font-sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
+body,
+.page__content,
+h1, h2, h3, h4, h5, h6,
+.page__title, .archive__item-title,
+.masthead, .greedy-nav, .site-title,
+.author__name, .author__bio,
+.btn, button, input, select, textarea,
+blockquote { font-family: var(--font-sans); }
+h1, h2, h3, h4 { font-weight: 600; letter-spacing: -0.01em; }
+
+.lede { font-size: 1.2em; line-height: 1.55; margin: 0 0 1.1em; color: var(--text); }
+
+a.feature-card--link {
+  display: block; text-decoration: none; color: inherit;
+  border-bottom: 0 !important; transition: border-color 0.2s ease, transform 0.2s ease;
+}
+a.feature-card--link:hover { border-color: var(--accent); transform: translateY(-2px); }
+a.feature-card--link h4 { color: var(--accent); }
+
+/* Force Inter on the remaining theme surfaces that hard-code a serif.
+   Deliberately excludes code/pre and icon (<i>) elements so monospace
+   and the Font Awesome / Academicons glyphs are untouched. */
+body, .page__content, .page__lead, .lede,
+h1, h2, h3, h4, h5, h6, figcaption,
+.masthead, .masthead__inner-wrap, .greedy-nav, .site-title,
+.author__name, .author__bio, .author__content, .author__urls-wrapper, .author__urls a,
+.archive__item-title, .page__title,
+.notice, .notice--primary, .notice--info, .notice--warning, .notice--success, .notice--danger,
+table, blockquote,
+.btn, button, input, select, textarea,
+.page__footer, .page__footer-copyright {
+  font-family: var(--font-sans) !important;
+}
+
+/* Keep highlight cards from underlining on hover */
+a.feature-card--link,
+a.feature-card--link:hover { text-decoration: none !important; }
