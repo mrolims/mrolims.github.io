@@ -208,3 +208,12 @@ table, blockquote,
 /* Keep highlight cards from underlining on hover */
 a.feature-card--link,
 a.feature-card--link:hover { text-decoration: none !important; }
+
+/* ---- Research figures ---------------------------------------- */
+.research-figure { margin: 1.2em 0 1.6em; }
+.research-figure img {
+  display: block; width: 100%; height: auto;
+  background: #ffffff; padding: 10px;
+  border: 1px solid var(--border); border-radius: 8px;
+}
+.research-figure figcaption { margin-top: 0.5em; font-size: 0.9em; color: var(--text-muted); }
