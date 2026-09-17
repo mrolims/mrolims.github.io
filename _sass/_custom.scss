@@ -1,0 +1,168 @@
+/* ================================================================
+   Custom layer: accent color + dark mode
+   All site-specific styling lives here so it is easy to review and
+   to revert (remove the `@import "custom";` line in main.scss).
+   ================================================================ */
+
+/* ---- Color tokens -------------------------------------------- */
+:root {
+  --accent:          #3b5bdb;
+  --accent-hover:    #2f49b0;
+  --bg:              #ffffff;
+  --bg-elevated:     #f7f8fa;
+  --text:            #{$dark-gray};
+  --text-muted:      #6b7178;
+  --border:          #{$lighter-gray};
+  --code-bg:         #f6f8fa;
+  --masthead-bg:     #ffffff;
+  --masthead-link:   #{$dark-gray};
+  --masthead-border: #{$lighter-gray};
+}
+
+html[data-theme="dark"] {
+  --accent:          #8aa4ff;
+  --accent-hover:    #adbcff;
+  --bg:              #12151c;
+  --bg-elevated:     #1a1f29;
+  --text:            #c7ccd4;
+  --text-muted:      #949ca8;
+  --border:          #2a303c;
+  --code-bg:         #1b212c;
+  --masthead-bg:     #171b23;
+  --masthead-link:   #c7ccd4;
+  --masthead-border: #262c38;
+}
+
+/* ---- Smooth theme transitions -------------------------------- */
+body,
+.masthead,
+.page__footer { transition: background-color 0.25s ease, color 0.25s ease, border-color 0.25s ease; }
+
+/* ---- Base surfaces ------------------------------------------- */
+html { background-color: var(--bg); }
+body { background-color: var(--bg); color: var(--text); }
+.page__content,
+.archive__item-excerpt,
+.author__content { color: var(--text); }
+h1, h2, h3, h4, h5, h6 { color: var(--text); }
+
+/* ---- Links --------------------------------------------------- */
+.page__content a,
+.archive__item-title a,
+p a, li a {
+  color: var(--accent);
+  &:hover  { color: var(--accent-hover); }
+  &:visited { color: var(--accent); }
+}
+
+/* ---- Masthead ------------------------------------------------ */
+.masthead { background-color: var(--masthead-bg); border-bottom: 1px solid var(--masthead-border); }
+.masthead__menu-item a,
+.greedy-nav a { color: var(--masthead-link); &:hover { color: var(--accent); } }
+.greedy-nav { background: transparent; }
+.greedy-nav .hidden-links { background: var(--bg-elevated); }
+.greedy-nav .hidden-links a { color: var(--masthead-link); }
+
+/* ---- Theme toggle button ------------------------------------- */
+.masthead__inner-wrap { position: relative; padding-right: 2.8em; }
+.theme-toggle {
+  position: absolute; right: 0.6em; top: 0;
+  height: $masthead-height;
+  display: flex; align-items: center; justify-content: center;
+  padding: 0 0.4em; background: none; border: 0; cursor: pointer;
+  color: var(--masthead-link); line-height: 1; z-index: 30;
+  -webkit-appearance: none; appearance: none;
+}
+.theme-toggle:hover { color: var(--accent); }
+.theme-toggle svg { display: block; }
+.theme-toggle .icon-sun { display: none; }
+html[data-theme="dark"] .theme-toggle .icon-moon { display: none; }
+html[data-theme="dark"] .theme-toggle .icon-sun  { display: block; }
+
+/* ---- Sidebar / author profile -------------------------------- */
+.author__name { color: var(--text); }
+.author__bio,
+.author__urls-wrapper { color: var(--text-muted); }
+
+/* ---- Code ---------------------------------------------------- */
+code, pre, .highlight,
+div.highlighter-rouge, figure.highlight,
+.highlighter-rouge .highlight { background-color: var(--code-bg); }
+html[data-theme="dark"] .highlight,
+html[data-theme="dark"] code,
+html[data-theme="dark"] pre { color: var(--text); }
+
+/* ---- Tables -------------------------------------------------- */
+table { color: var(--text); border-color: var(--border); }
+th, td, tr { border-color: var(--border); }
+html[data-theme="dark"] th { background-color: var(--bg-elevated); color: var(--text); }
+html[data-theme="dark"] tbody tr:nth-child(even) { background-color: var(--bg-elevated); }
+
+/* ---- Misc ---------------------------------------------------- */
+hr { border-color: var(--border); }
+blockquote { border-left-color: var(--accent); color: var(--text-muted); }
+.page__footer {
+  background-color: var(--bg-elevated); color: var(--text-muted);
+  border-top: 1px solid var(--border);
+  a { color: var(--text-muted); &:hover { color: var(--accent); } }
+}
+.page__content img { border-radius: 4px; }
+
+/* ================================================================
+   Software / project pages
+   ================================================================ */
+.project { margin: 1.5em 0 3em; }
+.project__title { margin: 0 0 0.1em; }
+.project__tagline { margin: 0 0 0.6em; color: var(--text-muted); font-size: 1.15em; }
+.project__badges { display: flex; flex-wrap: wrap; gap: 0.4em; align-items: center; margin: 0.4em 0 0.9em; }
+.project__badges a { border-bottom: 0 !important; }
+.project__badges img { height: 20px; display: block; }
+.project__links { display: flex; flex-wrap: wrap; gap: 0.6em; margin: 0 0 1em; }
+a.project__btn {
+  display: inline-block; padding: 0.4em 0.95em; border-radius: 6px;
+  background: var(--accent); color: #fff !important; font-size: 0.9em;
+  text-decoration: none; border-bottom: 0 !important; transition: background 0.2s ease;
+}
+a.project__btn:hover { background: var(--accent-hover); color: #fff !important; }
+
+.feature-grid {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1em; margin: 1.3em 0 1.6em;
+}
+.feature-card {
+  border: 1px solid var(--border); border-radius: 8px;
+  padding: 0.9em 1.05em; background: var(--bg-elevated);
+}
+.feature-card h4 { margin: 0 0 0.3em; font-size: 1em; color: var(--text); }
+.feature-card p { margin: 0; font-size: 0.9em; color: var(--text-muted); line-height: 1.45; }
+
+/* ---- Dark-mode syntax highlighting --------------------------- */
+html[data-theme="dark"] {
+  .highlight .c, .highlight .c1, .highlight .cm, .highlight .cs { color: #7a8699; font-style: italic; }
+  .highlight .k, .highlight .kn, .highlight .kc, .highlight .kd { color: #c792ea; }
+  .highlight .s, .highlight .s1, .highlight .s2, .highlight .sb, .highlight .se { color: #c3e88d; }
+  .highlight .mi, .highlight .mf, .highlight .m, .highlight .il { color: #f78c6c; }
+  .highlight .nb, .highlight .bp { color: #82aaff; }
+  .highlight .nf, .highlight .nd { color: #82aaff; }
+  .highlight .nc, .highlight .nn { color: #ffcb6b; }
+  .highlight .o, .highlight .ow { color: #89ddff; }
+  .highlight .n, .highlight .p, .highlight .py { color: #c7ccd4; }
+}
+
+/* ---- Dark-mode inline code + code-block label ---------------- */
+html[data-theme="dark"] code.highlighter-rouge,
+html[data-theme="dark"] :not(pre) > code {
+  background-color: var(--code-bg);
+  color: var(--text);
+}
+html[data-theme="dark"] div.highlighter-rouge::before,
+html[data-theme="dark"] figure.highlight::before {
+  background: #0e1219;
+  color: var(--text-muted);
+}
+
+/* ---- Project logo (theme-aware) ------------------------------ */
+.project__logo { max-width: 300px; width: 100%; height: auto; display: block; margin: 0 0 0.15em; }
+.project__logo--dark { display: none; }
+html[data-theme="dark"] .project__logo--light { display: none; }
+html[data-theme="dark"] .project__logo--dark { display: block; }
