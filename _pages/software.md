@@ -27,7 +27,7 @@ Open-source tools I develop for the numerical analysis of nonlinear dynamical sy
   </p>
 </div>
 
-pynamicalsys is an open-source Python package for the analysis of nonlinear dynamical systems. It provides a unified interface to discrete maps, continuous flows, and Hamiltonian systems, together with a broad set of chaos indicators and transport measures. The numerical core is compiled with Numba, which brings the performance close to that of a compiled language while keeping a high-level Python interface.
+*pynamicalsys* is an open-source Python package for the analysis of nonlinear dynamical systems. It provides a unified interface to discrete maps, continuous flows, and Hamiltonian systems, together with a broad set of chaos indicators and transport measures. The numerical core is compiled with Numba, which brings the performance close to that of a compiled language while keeping a high-level Python interface.
 
 ### Installation
 
@@ -35,7 +35,7 @@ pynamicalsys is an open-source Python package for the analysis of nonlinear dyna
 pip install pynamicalsys
 ```
 
-pynamicalsys supports Python 3.10 to 3.13 and depends only on NumPy and Numba.
+*pynamicalsys* supports Python 3.10 to 3.13 and depends only on NumPy and Numba.
 
 ### What it does
 
@@ -64,7 +64,7 @@ A complete tour of the API, with tutorials for discrete, continuous, and Hamilto
 
 ### Citation
 
-If pynamicalsys is useful in your research, please cite:
+If *pynamicalsys* is useful in your research, please consider citing:
 
 **M. R. Sales**, L. C. de Souza, D. Borin, M. Mugnaine, J. D. Szezech Jr., R. L. Viana, I. L. Caldas, E. D. Leonel, and C. G. Antonopoulos, _pynamicalsys: A Python toolkit for the analysis of dynamical systems_, [Chaos, Solitons & Fractals 201, 117269 (2025)](https://doi.org/10.1016/j.chaos.2025.117269).
 
