@@ -56,6 +56,10 @@ Humboldt University of Berlin and Potsdam Institute for Climate Impact Research 
 
 * **[pynamicalsys](/software/#pynamicalsys)**, an open-source Python toolkit for the analysis of dynamical systems (NumPy/Numba).
 
+## Talks
+
+Conference talks and presentations are listed on the [talks page](/talks/).
+
 ## Publications
 
 A full list is available on the [publications page](/publications/): 26 peer-reviewed articles and one book chapter.
