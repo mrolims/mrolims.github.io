@@ -24,6 +24,11 @@ rolim.sales[at]unesp.br
 - Adaptive dynamical networks
 - Neuronal models
 
+## Research groups
+
+- [105 Group Science](https://www.105groupscience.com)
+- [Grupo de Investigação em Sistemas Complexos e Dinâmica Não Linear](https://www.instagram.com/giscdnl/)
+
 ## Selected work
 
 <div class="feature-grid">

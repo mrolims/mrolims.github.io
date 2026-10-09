@@ -34,6 +34,11 @@ Federal University of Paraná (UFPR), Brazil
 Department of Physics, São Paulo State University (UNESP), Rio Claro, Brazil\
 *Supervisor*: Prof. Dr. Edson Denis Leonel (FAPESP)
 
+## Research groups
+
+- [105 Group Science](https://www.105groupscience.com)
+- [Grupo de Investigação em Sistemas Complexos e Dinâmica Não Linear](https://www.instagram.com/giscdnl/)
+
 ## Research visits
 
 * **Visiting Fellow** <span style="float:right;">**Feb 2025 – Jan 2026**</span>\
