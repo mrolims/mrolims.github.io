@@ -48,7 +48,7 @@ rolim.sales[at]unesp.br
 
 ## News
 
-- New article submitted to arXiv on 5 Oct 2025: [Adiabatic confinement and escape in an open billiard](https://arxiv.org/abs/2610.07281).
+- New article submitted to arXiv on 5 Oct 2026: [Adiabatic confinement and escape in an open billiard](https://arxiv.org/abs/2610.07281).
 - New article published in Physics Letters A on 25 Sep 2026: [Recurrence time entropy and weak chaos in Hamiltonian flows](https://doi.org/10.1016/j.physleta.2026.132224).
 - New article published in Physical Review E on 24 Jul 2026: [Role of manifolds in the transport of chaotic trajectories in the standard nontwist map](https://doi.org/10.1103/28br-cb3m).
 - New article published in Chaos, Solitons and Fractals on 15 Jul 2026: [On the dynamical and statistical properties of a quartic mean-field Hamiltonian model](https://doi.org/10.1016/j.chaos.2026.118787).
