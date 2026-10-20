@@ -49,7 +49,7 @@ author_profile: true
 
 9. E. C. Gabrick, **M. R. Sales**, E. Sayari, J. Trobia, E. K. Lenzi, F. S. Borges, J. D. Szezech Jr., K. C. Iarosz, R. L. Viana, I. L. Caldas, and A. M. Batista, _Fractional dynamics and recurrence analysis in cancer model_, [Brazilian Journal of Physics 53, 145 (2023)](http://mrolims.github.io/files/mrs9.pdf).
 8. V. dos Santos, **M. R. Sales**, S. S. Muni, J. D. Szezech, A. M. Batista, S. Yanchuk, and J. Kurths, _Identification of single- and double-well coherenceincoherence patterns by the binary distance matrix_, [Communications in Nonlinear Science and Numerical Simulation 125, 107390 (2023)](http://mrolims.github.io/files/mrs8.pdf)
-7. **M. R. Sales**, M. Mugnaine, J. Szezech, José D., R. L. Viana, I. L. Caldas, N. Marwan, and J. Kurths, _Stickiness and recurrence plots: An entropy-based approach_, [Chaos: An Interdisciplinary Journal of Nonlinear Science 33, 033140 (2023)](http://mrolims.github.io/files/mrs7.pdf)
+7. **M. R. Sales**, M. Mugnaine, J. D. Szezech Jr., R. L. Viana, I. L. Caldas, N. Marwan, and J. Kurths, _Stickiness and recurrence plots: An entropy-based approach_, [Chaos: An Interdisciplinary Journal of Nonlinear Science 33, 033140 (2023)](http://mrolims.github.io/files/mrs7.pdf)
 {: reversed="reversed"}
 {:start="9"}
 
@@ -59,7 +59,7 @@ author_profile: true
 5. D. R. da Costa, A. Fujita, **M. R. Sales**, J. D. Szezech, and A. M. Batista, _Dynamical properties for a tunable circular to polygonal billiard_, [Brazilian Journal of Physics 52, 75 (2022)](http://mrolims.github.io/files/mrs5.pdf)
 4. F. Teston, A. L. Azevedo, **M. R. Sales**, F. M. Zanetti, and M. G. E. da Luz, _The flexibility in choosing distinct Greens functions for the boundary wall method: Waveguides and billiards_, [Journal of Physics A: Mathematical and Theoretical 55, 175201 (2022)](http://mrolims.github.io/files/mrs4.pdf)
 3. **M. R. Sales**, M. Mugnaine, R. L. Viana, I. L. Caldas, and J. D. Szezech, _Unpredictability in Hamiltonian systems with a hierarchical phase space_, [Physics Letters A 431, 127991 (2022)](http://mrolims.github.io/files/mrs3.pdf).
-2. D. R. da Costa, A. Fujita, A. M. Batista, **M. R. Sales**, and J. D. Szezech Jr, _Conservative generalized bifurcation diagrams and phase space properties for oval-like billiards_, [Chaos, Solitons & Fractals 155, 111707 (2022)](http://mrolims.github.io/files/mrs2.pdf).
+2. D. R. da Costa, A. Fujita, A. M. Batista, **M. R. Sales**, and J. D. Szezech Jr., _Conservative generalized bifurcation diagrams and phase space properties for oval-like billiards_, [Chaos, Solitons & Fractals 155, 111707 (2022)](http://mrolims.github.io/files/mrs2.pdf).
 {: reversed="reversed"}
 {:start="6"}
 
